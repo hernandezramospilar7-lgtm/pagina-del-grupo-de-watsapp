@@ -1,0 +1,42 @@
+    /*
+        dotted
+        dashed
+        solid
+        double
+        groove
+        ridge
+        inset
+        outset
+        none
+        hidden
+    */
+   
+h1.titulo {
+    color: white(78, 78, 78);
+    text-align: center;
+}
+
+body {
+    background-image: url(img/d1d30148267b27034e68e650a91e4e9b.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-attachment: fixed;
+    margin: 0;
+    font-family: Arial sans-serif;
+    color: white;
+    text-align: center;
+    padding: 20px;
+}
+
+
+button {
+    background-color: yellow;
+    color: black;
+}
+.titulo {
+    color: yellow;
+    font-size: large 500px;
+}
+
+
